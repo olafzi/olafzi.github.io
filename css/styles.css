@@ -25,6 +25,26 @@ body {
 	letter-spacing: .5rem;
 }
 
+.dropdown {
+	background: rgba(0, 0, 0, 0.0);
+	text-transform: uppercase;
+	font-weight: 400;
+	font-size: 1rem;
+}
+
+.dropdown-menu {
+	background: rgba(0, 0, 0, 0.0);
+}
+
+.dropdown-item {
+		color: #FFFFFF;
+
+	text-transform: uppercase;
+	font-weight: 400;
+	letter-spacing: 0.1rem;
+
+}
+
 .navbar-nav li {
 	padding-right: 1rem;
 }
